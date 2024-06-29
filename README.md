@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kanupriya
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning data structures and algorithm with C
+- 🌱 I’m currently learning data structures and algorithm with C, java, c++
 - 💞️ I’m looking to collaborate on some interesting projects
-- 📫 How to reach me :whatsapp on 6397087751
+- 📫 How to reach me :whatsapp on 6397087751 or mail on kanupriyakv@gmail.com
 
 
 <!---
