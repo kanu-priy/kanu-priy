@@ -114,7 +114,7 @@ Actively building and shipping — check back soon.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanu-priy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kanu-priy&theme=radical&hide_border=true" />
 
 
